@@ -29,4 +29,4 @@ async def on_reminder(channel_id, author_id, text):
 #async def quit(ctx):
     #sys.exit()
 
-bot.run("ODExOTAwNzAyNTgxODUwMTMy.YC47cw.39vnuoVMG8yOxkPYFhNZe6SJRx0")
+bot.run("TOKEN")
